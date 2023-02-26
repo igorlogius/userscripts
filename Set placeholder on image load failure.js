@@ -4,7 +4,7 @@
     // @match       *://*/*
     // @grant       none
     // @version     1.0
-    // @author      -
+    // @author      igorlogius
     // @description 2/25/2023, 8:42:24 AM
     // ==/UserScript==
 
