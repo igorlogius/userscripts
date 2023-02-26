@@ -1,5 +1,5 @@
     // ==UserScript==
-    // @name        Inline Reddit Preview Images 2.0
+    // @name        Inline Reddit Preview Images
     // @namespace   Violentmonkey Scripts
     // @match       *://old.reddit.com/*
     // @match       *://new.reddit.com/*
